@@ -1,0 +1,9 @@
+# Local practice data
+practice_log.csv
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Local credentials
+.env
